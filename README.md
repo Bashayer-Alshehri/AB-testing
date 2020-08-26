@@ -1,6 +1,8 @@
 # Analyze-A-B-test-result
 A/B test
 
+This project was completed as part of Udacity's Data Analyst Nanodegree certification.
+
 ## Introduction:
 > A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
 
